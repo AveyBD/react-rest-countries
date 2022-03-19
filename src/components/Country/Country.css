@@ -9,3 +9,7 @@
     width: 100%;
     height: auto;
   }
+
+.country>h2{
+    text-align: center;
+}
